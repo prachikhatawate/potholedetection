@@ -26,8 +26,6 @@ Each image is labeled as either "Normal" (no pothole) or "Pothole" based on its 
 <img width="341" height="639" alt="image" src="https://github.com/user-attachments/assets/5bde8222-863a-4471-aee1-e2fbbe9ef48f" />
 
 ## Methodology
-
-
 ## Code overview
 ## Results 
 ## Conclusion

@@ -27,11 +27,17 @@ This dataset consists of a combination of road images sourced from Google and an
 
 ## Methodology
 -Convert input road image to grayscale.
+
 -Apply Gaussian blur to reduce noise.
+
 -Perform texture analysis using Local Binary Pattern (LBP).
+
 -Apply adaptive thresholding to highlight pothole regions.
+
 -Combine LBP and threshold masks.
+
 -Refine results using morphological operations.
+
 -Detect contours and draw bounding boxes around potholes.
 
 ## Code overview
